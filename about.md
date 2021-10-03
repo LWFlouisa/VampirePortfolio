@@ -4,7 +4,9 @@ title: About
 permalinl: /about
 ---
 ## About
-<center><img src="https://lwflouisa.github.io/Portfolio/assets/img/uploadedfairy.png" width="75%"></center>
+<center>
+  <img src="https://raw.githubusercontent.com/LWFlouisa/VampirePortfolio/main/assets/gallery/epilogue059.jpg" width="75%">
+</center>
 
 I am a Red Serpent, and my format is Besonasiga, descended from Emirotamo. This makes me a Besonasiga Arutisana. And others who draw this manga subset "Os Besonasigos Arutisanos". Emirotamo is the Fraponic spelling of the term "Mort Amour", or Death Love. Emirotamo primarily focusing on fleshing out the setting of the Franco-Japanese wars fought in North America, and the impact this had on American society. The constructed language is Fraponic, which later morphed into Hafestra as of the O Raphael timeline.
 
