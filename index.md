@@ -3,4 +3,6 @@ title: Welcome
 layout: default
 ---
 ## S.R. Weaver Portfolio
-<center><img src="https://lwflouisa.github.io/Portfolio/assets/img/uploadedfairy.png" width="75%"></center>
+<center>
+  <img src="https://raw.githubusercontent.com/LWFlouisa/VampirePortfolio/main/assets/gallery/epilogue059.jpg" width="75%">
+</center>
