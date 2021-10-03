@@ -3,10 +3,7 @@ layout: default
 title: About
 permalinl: /about
 ---
-<center>
-  <img src="https://raw.githubusercontent.com/LWFlouisa/VampirePortfolio/main/assets/gallery/epilogue059.jpg" width="75%">
-</center>
-
+## Social Media
 Im in the process of switching over to decentralized social media, with the exception of pinterest and facebook. Going forward Im going to mainly be posting my art on Pixelfed. Also my active video channel is on Peertube.
 
 [Diaspora](https://diasp.org/u/lwflouisa)<br />
