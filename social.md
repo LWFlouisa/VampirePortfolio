@@ -3,7 +3,9 @@ layout: default
 title: About
 permalinl: /about
 ---
-<center><img src="https://lwflouisa.github.io/Portfolio/assets/img/uploadedfairy.png" width="75%"></center>
+<center>
+  <img src="https://raw.githubusercontent.com/LWFlouisa/VampirePortfolio/main/assets/gallery/epilogue059.jpg" width="75%">
+</center>
 
 Im in the process of switching over to decentralized social media, with the exception of pinterest and facebook. Going forward Im going to mainly be posting my art on Pixelfed. Also my active video channel is on Peertube.
 
