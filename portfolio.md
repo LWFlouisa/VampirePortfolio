@@ -10,6 +10,10 @@ permalinl: /portfolio
   <a href="https://lwflouisa.github.io/VampirePortfolio/assets/gallery/epilogue078.jpg"><img src="https://raw.githubusercontent.com/LWFlouisa/VampirePortfolio/main/assets/gallery/epilogue075.jpg" width="33%"></a><a href="https://lwflouisa.github.io/VampirePortfolio/assets/gallery/epilogue076.jpg"><img src="https://raw.githubusercontent.com/LWFlouisa/VampirePortfolio/main/assets/gallery/epilogue076.jpg" width="33%"></a><a href="https://lwflouisa.github.io/VampirePortfolio/assets/gallery/epilogue078.jpg"><img src="https://lwflouisa.github.io/VampirePortfolio/assets/gallery/epilogue078.jpg" width="33%"></a>
 </center>
 
+### Novels
+[Uploaded Fairy](https://lwflouisa.github.io/Homepage/UploadedFairy)
+[Writing Archive](https://lwflouisa.github.io/WritingArchive)
+
 ### Webcomic
 Note that the final version will be remastered on Cotton Canvases. But that will be after I finish part two, Nadines Story.
 
