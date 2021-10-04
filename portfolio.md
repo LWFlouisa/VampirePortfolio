@@ -11,7 +11,10 @@ permalinl: /portfolio
 </center>
 
 ### Novels
-[Uploaded Fairy](https://lwflouisa.github.io/Homepage/UploadedFairy)
+An archive of how I slowly drifted away from Cyberpunk into Satanic Futurism and later VampireFolk. Im closer to Cybergoth now.
+
+[Uploaded Fairy](https://lwflouisa.github.io/Homepage/UploadedFairy)<br />
+[Side Novels](https://lwflouisa.github.io/Homepage/SideNovels/)
 [Writing Archive](https://lwflouisa.github.io/WritingArchive)
 
 ### Webcomic
