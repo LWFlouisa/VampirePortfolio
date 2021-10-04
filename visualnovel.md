@@ -10,6 +10,7 @@ In a world where French-America and Japanese-America locked in civil war, an app
 Uploaded Fairy was designed with a way of exploring a more panel by panel breakdown of kinetic visual novels, but this concept will also be used to explore more complicated interactive fiction later.
 
 ### Screenshots
+Coming soon
 
 ### Download
-[Download]()
+[Download](https://github.com/LWFlouisa/UploadedFairyOVN)
