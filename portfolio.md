@@ -20,6 +20,9 @@ An archive of how I slowly drifted away from Cyberpunk into Satanic Futurism and
 [Side Novels](https://lwflouisa.github.io/Homepage/SideNovels/)<br />
 [Writing Archive](https://lwflouisa.github.io/WritingArchive)
 
+### Writing Sites
+[Honeyfeed](https://www.honeyfeed.fm/u/2217)
+
 ### Webcomic
 Note that the final version will be remastered on Cotton Canvases. But that will be after I finish part two, Nadines Story.
 
